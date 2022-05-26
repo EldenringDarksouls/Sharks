@@ -1,12 +1,17 @@
   body {
   background-color: black;
-  text-align:right
-    
+  text-align:center  
 }
 h1{
   color:white
 }
 h3{
-  color:white
-    
+  color:yellow
 }
+a{
+  color:blue
+}
+ul{
+  color:yellow
+}
+
